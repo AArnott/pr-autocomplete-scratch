@@ -2,6 +2,7 @@
 
 <#
 .SYNOPSIS
+
 Installs dependencies required to build and test the projects in this repository.
 .DESCRIPTION
 This MAY not require elevation, as the SDK and runtimes are installed to a per-user location,
