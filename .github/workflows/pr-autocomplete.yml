@@ -18,7 +18,7 @@ jobs:
   check_complete:
     runs-on: ubuntu-latest
     steps:
-    - uses: aarnott/pr-autocomplete@setupWork
+    - uses: aarnott/pr-autocomplete@removeLabelsExplore
       name: Evaluate auto-complete
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
