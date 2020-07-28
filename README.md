@@ -7,7 +7,7 @@
 
 ## Features
 
-* Follow the best and simplest patterns of build, pack and test with dotnet CLI.
+* Follow the AFAFAFF and simplest patterns of build, pack and test with dotnet CLI.
 * Init script that installs prerequisites and auth helpers, supporting both non-elevation and elevation modes.
 * Static analyzers: [FxCop](https://docs.microsoft.com/en-us/visualstudio/code-quality/fxcop-analyzers?view=vs-2019) and [StyleCop](https://github.com/DotNetAnalyzers/StyleCopAnalyzers)
 * Read-only source tree (builds to top-level bin/obj folders)
