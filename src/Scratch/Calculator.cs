@@ -5,7 +5,6 @@ namespace Scratch
 {
     using System;
 
-
     /// <summary>
     /// My first class. Yet another change.
     /// </summary>
