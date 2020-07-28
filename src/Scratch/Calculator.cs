@@ -4,6 +4,7 @@
 namespace Scratch
 {
     using System;
+
     /// <summary>
     /// My first class.
     /// </summary>
