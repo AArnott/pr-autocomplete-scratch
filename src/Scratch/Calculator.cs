@@ -7,7 +7,7 @@ namespace Scratch
 
 
     /// <summary>
-    /// My first class.
+    /// My first class. Yet another change.
     /// </summary>
     public static class Calculator
     {
