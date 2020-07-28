@@ -4,7 +4,7 @@
 
 [![NuGet package](https://img.shields.io/nuget/v/Scratch.svg)](https://nuget.org/packages/Scratch)
 
-
+asdfasdfasdfadsf
 ## Features
 
 * Follow the best and simplest patterns of build, pack and test with dotnet CLI.
