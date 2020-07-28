@@ -1,10 +1,6 @@
 name: autocomplete
 
 on:
-  push:
-    branches:
-      - main
-      - validate/*
   pull_request:
     types:
     - labeled
