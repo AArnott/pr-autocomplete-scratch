@@ -1,5 +1,5 @@
 # Your Library
-
+AMPOTER CHANGE
 ***An awesome template for your awesome library***
 
 [![NuGet package](https://img.shields.io/nuget/v/Scratch.svg)](https://nuget.org/packages/Scratch)
