@@ -10,6 +10,8 @@ namespace Scratch
     /// </summary>
     public static class Calculator
     {
+        
+        
         /// <summary>
         /// Adds two integers.
         /// </summary>
