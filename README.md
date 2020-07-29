@@ -16,8 +16,9 @@ AMPOTER CHANGasdfasdfE
 
 [![NuGet package](https://img.shields.io/nuget/v/Scratch.svg)](https://nuget.org/packages/Scratch)
 
-asdfasdfasdfadsf
-## Features
+## Features!! ?
+
+Yay
 
 * Follow the best and simplest patterns of build, pack and test with dotnet CLI.
 * Init script that installs prerequisites and auth helpers, supporting both non-elevation and elevation modes.
