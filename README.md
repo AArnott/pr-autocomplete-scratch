@@ -1,11 +1,24 @@
 # Your Library
+asdf
+ADD BLOCK COMMENT
 
+asdfasdfadsf
+
+SYNCHRONIZE
+asdfasdf
+PUSH CHANGE YML TEST
+
+YET ANOTHER CHANGE
+asdf
+
+AMPOTER CHANGasdfasdfE
 ***An awesome template for your awesome library***
 
 [![NuGet package](https://img.shields.io/nuget/v/Scratch.svg)](https://nuget.org/packages/Scratch)
 
-
 ## Features!! ?
+
+Yay
 
 * Follow the best and simplest patterns of build, pack and test with dotnet CLI.
 * Init script that installs prerequisites and auth helpers, supporting both non-elevation and elevation modes.
