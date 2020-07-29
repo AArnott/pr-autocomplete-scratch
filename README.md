@@ -6,11 +6,11 @@ asdfasdfadsf
 
 SYNCHRONIZE
 asdfasdf
-PUSH CHANGE YML TEST
+PUSH CHANGE YML TESTasdfasdf
 
 YET ANOTHER CHANGE
 asdf
-
+asdf
 AMPOTER CHANGasdfasdfE
 ***An awesome template for your awesome library***
 
