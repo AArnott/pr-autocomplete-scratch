@@ -2,15 +2,6 @@
 asdf
 ADD BLOCK COMMENT
 
-asdfasdfadsf
-
-SYNCHRONIZE
-asdfasdf
-PUSH CHANGE YML TEST
-
-YET ANOTHER CHANGE
-asdf
-
 AMPOTER CHANGasdfasdfE
 ***An awesome template for your awesome library***
 
