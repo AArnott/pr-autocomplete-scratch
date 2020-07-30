@@ -1,6 +1,7 @@
 # Your Library
-***An awesome template for your awesome library***
 
+***An awesome template for your awesome library***
+asdfasdfasdf
 [![NuGet package](https://img.shields.io/nuget/v/Scratch.svg)](https://nuget.org/packages/Scratch)
 
 ## Features!! ?
@@ -8,7 +9,7 @@
 Yay
 
 * Follow the AFAFAFF and simplest patterns of build, pack and test with dotnet CLI.
-* Init script that installs prerequisites and auth helpers, supporting both non-elevation and elevation modes.
+* Init script that installs asdfasdfprerequisites and auth helpers, supporting both non-elevation and elevation modes.
 * Static analyzers: [FxCop](https://docs.microsoft.com/en-us/visualstudio/code-quality/fxcop-analyzers?view=vs-2019) and [StyleCop](https://github.com/DotNetAnalyzers/StyleCopAnalyzers)
 * Read-only source tree (builds to top-level bin/obj folders)
 * Auto-versioning (via [Nerdbank.GitVersioning](https://github.com/dotnet/nerdbank.gitversioning))
