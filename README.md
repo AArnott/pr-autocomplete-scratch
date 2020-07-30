@@ -3,7 +3,7 @@
 
 [![NuGet package](https://img.shields.io/nuget/v/Scratch.svg)](https://nuget.org/packages/Scratch)
 
-## Features!! ?
+## Features
 
 Yay
 
